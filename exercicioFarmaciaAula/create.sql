@@ -1,0 +1,1 @@
+create table if not exists medicamento (id int auto_increment primary key, nome varchar(255), laboratorio varchar(255), quantidade int, preco numeric(15,2));
